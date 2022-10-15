@@ -1,5 +1,17 @@
 
 
+# [2.1.0](https://github.com/tuutoo/release-test/compare/2.0.0...2.1.0) (2022-10-15)
+
+
+### Bug Fixes
+
+* bug fix 2 ([51792bd](https://github.com/tuutoo/release-test/commit/51792bd5fed6448d3359fcc1d96767a56fdb6d61))
+
+
+### Features
+
+* new feat 2 ([7c26ad4](https://github.com/tuutoo/release-test/commit/7c26ad496624ba18eed1a12f3af74d78d315ea29))
+
 # [2.0.0](https://github.com/tuutoo/release-test/compare/1.2.1...2.0.0) (2022-10-15)
 
 
