@@ -1,5 +1,12 @@
 
 
+## [1.2.1](https://github.com/tuutoo/release-test/compare/1.2.0...1.2.1) (2022-10-15)
+
+
+### Bug Fixes
+
+* 🐛 small fix ([e8fe8c1](https://github.com/tuutoo/release-test/commit/e8fe8c1f60b15e8b8ae557d9878df2231d1357b9))
+
 # [1.2.0](https://github.com/tuutoo/release-test/compare/1.1.0...1.2.0) (2022-10-15)
 
 
